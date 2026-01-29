@@ -30,7 +30,7 @@
   <br/>
 
   <div>
-    <img src="{840C0004-4877-463B-A964-C64124DD0CDE}.png" alt="image" width="600" />
+    <img src="image.png" alt="image" />
   </div>
 
 </div>
